@@ -1,4 +1,5 @@
-Explanation of Queries
+#### Explanation of Queries
+
 Query 1: Selects all unique customers who placed orders within the last 30 days.
 Query 2: Calculates the total order amount spent by each customer.
 Query 3: Updates the price of "Product C" to 45.00.
